@@ -6,7 +6,7 @@
   
 ### Interest
  - Embedded System(Android Open Source Project, ROS, Linux Kernel)
- - Autonomous Driving Technology(Image Signal Processing)
+ - Self-Autonomous Driving Technology(Image Signal Processing)
  - Front-end(Nuxt.js/Vue.js, Customize CSS)
  - Back-end(Node.js, Nest.js, Fast API)
  - Leadership, Mentoring, Presentation
