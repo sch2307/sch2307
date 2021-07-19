@@ -1,26 +1,23 @@
-
-<div align=center>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com)
-</div>
+## Hi there, I'm [Juwon!](https://github.com/sch2307) 👋
 
 ### Software Development Engineer
- - Software Devlopment Enginner in Neuralworks Labs
+ - Software Devlopment Engineer in Neuralworks Labs
+ - Undergraduate Researcher in Kookmin University of Embedded System Labs.
   
 ### Interest
  - Embedded System(Android Open Source Project, Linux Kernel)
- - Front-end(Nuxt.js/Vue.js)
- - Back-end(Nest.js, Fast API)
+ - Front-end(Nuxt.js/Vue.js, Customize CSS)
+ - Back-end(Node.js, Nest.js, Fast API)
  - Leadership, Mentoring, Presentation
 
-#
+###
 
 <div align="center">
 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)]
-
+![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sch2307)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:choijuone@gmail.com)](mailto:choijuone@gmail.com)
 </div>
+
 
 <div align="center">
 
