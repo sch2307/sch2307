@@ -15,7 +15,7 @@
 
 <div align="center">
 
-![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sch2307)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sch2307)](https://www.facebook.com/sch2307)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:choijuone@gmail.com)](mailto:choijuone@gmail.com)
 </div>
 
