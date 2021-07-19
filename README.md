@@ -1,7 +1,7 @@
 ## Hi there, I'm [Juwon!](https://github.com/sch2307) 👋
 
 ### Software Development Engineer
- - Software Devlopment Engineer in Neuralworks Labs
+ - Software Development Engineer in Neuralworks Labs
  - Undergraduate Researcher in Kookmin University of Embedded System Labs.
   
 ### Interest
